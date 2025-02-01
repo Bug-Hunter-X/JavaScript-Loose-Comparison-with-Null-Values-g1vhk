@@ -1,0 +1,3 @@
+# JavaScript Loose Comparison with Null Values
+
+This repository demonstrates a common JavaScript bug related to loose comparison (==) with null values.  The original code does not handle null values gracefully, leading to unexpected results. The solution demonstrates how to explicitly check for null values using strict comparison (===) or other suitable methods.  This ensures that the function behaves as expected and avoids potential errors.
